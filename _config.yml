@@ -1,6 +1,6 @@
 # main text of home
-name: 某坑
-bio: 记点小事
+name: UNKNOWN
+bio: 
 
 # twitter summary info
 description: A blog about Nothing
@@ -17,7 +17,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://blog.ilili.tk/
+url: https://blog.ilili.tk
 # your url: https://blog.ilili.tk/
 
 permalink: /:title.html
