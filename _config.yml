@@ -26,7 +26,7 @@ permalink: /:title.html
 analytics-google: ''
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'https://blog.ilili.tk/'
+analytics-piwik-url: 'https://blog.ilili.tk'
 analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
@@ -49,7 +49,7 @@ valine:
 
 # if you don't have any of social below, comment the line
 facebook: 100012963570046
-# twitter: mytwitter
+twitter: melinkii_ren
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -58,7 +58,7 @@ facebook: 100012963570046
 github: Melinkii
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: Yilin/Ren
+# stackoverflow: Yilin/Ren
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -124,7 +124,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://blog.ilili.tk/
+    base_url: https://blog.ilili.tk
 markdown: kramdown
 kramdown:
     input: GFM
