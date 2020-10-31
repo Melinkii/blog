@@ -20,7 +20,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://blog.ilili.tk/
 # your url: https://blog.ilili.tk/
 
-permalink: /:title/
+permalink: /:categories/:year/:month/:title.html
 
 # To enable google analytics, supply your token below
 analytics-google: ''
