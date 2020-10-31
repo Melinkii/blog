@@ -1,9 +1,9 @@
 # main text of home
-name: Yilin的零散坑
-bio: 有匪君子，如切如磋，如琢如磨。。。
+name: 某坑
+bio: 记点小事
 
 # twitter summary info
-description: A blog about yilin.cool Yilin
+description: A blog about Nothing
 
 # if it's an external image, update below for true
 # better with square images
@@ -69,8 +69,8 @@ email: i@am-loli.fun
 
 authors:
     Yilin:
-        name: Yilin Ren
-        bio: 木岚画凉
+        name: UNKNOWN
+        bio: 2333
         about: https://blog.ilili.tk/about
         external-image: false
         picture: assets/images/profile.JPG
